@@ -21,7 +21,7 @@ In the first part, a Python script was created to visualize the weather of 500+ 
 
 #### Tasks
 
-- Create a series of scatter plots to showcase the following relationships:
+**Create a series of scatter plots to showcase the following relationships**
 
 * Temperature (F) vs. Latitude
 
@@ -39,7 +39,7 @@ In the first part, a Python script was created to visualize the weather of 500+ 
 
 ![Wind Speed (mph) vs. Latitude](/Images/lat_speed.png)
 
-- Run linear regression on each relationship by separating the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)
+**Run linear regression on each relationship by separating the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)**
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
@@ -98,16 +98,16 @@ The r-square value is : 0.13 which shows a somewhat weak positive correlation be
 
 #### Tasks
 
-- Create a heat map that displays the humidity for every city from Part I
+**Create a heat map that displays the humidity for every city from Part I**
 
 ![Heat Map](/Images/map1.png)
 
-- Narrow down the DataFrame to find your ideal weather condition. For example:
+**Narrow down the DataFrame to find your ideal weather condition**
 1. A max temperature lower than **80 degrees but higher than 70**
 2. Wind speed less than **10 mph**
 3. Zero cloudiness
 
-- Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country
+**Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country**
 
 ![Heat Map - Hotel](/Images/map2.png)
 
